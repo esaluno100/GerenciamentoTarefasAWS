@@ -249,6 +249,18 @@ Crie o arquivo `app.py` no servidor EC2:
                flex
 
    ---
+ 
+
+
+---
+  # Imagens do Sistema criado via página Web para Ilustar a ideia de funcionamento das Terfas prioritárias com a exibição da página:
+![Imagem 1  do funcionamento da prioridades das tarefas ](https://github.com/esaluno100/GerenciamentoTarefasAWS/blob/main/teste1.png)
+----
+![Imagem 2  do funcionamento da prioridades das tarefas ](https://github.com/esaluno100/GerenciamentoTarefasAWS/blob/main/teste-2.png)
+-------
+![Imagem 1  do funcionamento da prioridades das tarefas ](https://github.com/esaluno100/GerenciamentoTarefasAWS/blob/main/teste4.png)
+
+
 
 ## 📜 Como Contribuir
 
